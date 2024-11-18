@@ -7,7 +7,7 @@ const Home = () => {
     <div className="p-4">
       <section class="bg-background-primary text-text-light py-16">
         <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-          <div class="p-4 text-center md:text-left">
+          <div class=" text-center md:text-left">
             <h1 class="text-4xl font-bold mb-4">Benvenuto in Overclocked</h1>
             <p class="text-xl mb-6">
               Un gruppo di amici che creano soluzioni innovative nel mondo della
