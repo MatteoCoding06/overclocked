@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "name": "Mario Rossi",
+    "role": "Web Developer",
+    "bio": "Esperto di sviluppo front-end e appassionato di tecnologia.",
+    "image": "/images/mario-rossi.jpg",
+    "socials": {
+      "linkedin": "https://linkedin.com/in/mariorossi",
+      "github": "https://github.com/mariorossi"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Luca Bianchi",
+    "role": "Hardware Specialist",
+    "bio": "Specializzato in assemblaggio e riparazione di PC.",
+    "image": "/images/luca-bianchi.jpg",
+    "socials": {
+      "linkedin": "https://linkedin.com/in/lucabianchi",
+      "github": "https://github.com/lucabianchi"
+    }
+  }
+]

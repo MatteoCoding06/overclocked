@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "E-commerce Responsive",
+    "description": "Un sito di e-commerce ottimizzato per dispositivi mobili.",
+    "category": "Web Development",
+    "technologies": ["React", "Tailwind CSS", "Node.js"],
+    "image": "/images/ecommerce.jpg",
+    "url": "https://demo-ecommerce.com"
+  },
+  {
+    "id": 2,
+    "title": "Sistema Domotico",
+    "description": "Un sistema intelligente per la gestione della casa.",
+    "category": "Hardware",
+    "technologies": ["Raspberry Pi", "Python", "IoT"],
+    "image": "/images/domotica.jpg",
+    "url": "https://demo-domotica.com"
+  },
+  {
+    "id": 3,
+    "title": "App di Chat",
+    "description": "Applicazione di messaggistica real-time.",
+    "category": "PWA",
+    "technologies": ["React", "Firebase", "WebSocket"],
+    "image": "/images/chat-app.jpg",
+    "url": "https://demo-chatapp.com"
+  }
+]
