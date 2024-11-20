@@ -1,29 +1,56 @@
 [
   {
     "id": 1,
-    "title": "E-commerce Responsive",
-    "description": "Un sito di e-commerce ottimizzato per dispositivi mobili.",
+    "title": "E-Shop Pro",
+    "description": "Una piattaforma di e-commerce moderna e scalabile.",
     "category": "Web Development",
-    "technologies": ["React", "Tailwind CSS", "Node.js"],
-    "image": "/images/ecommerce.jpg",
-    "url": "https://demo-ecommerce.com"
+    "technologies": ["React", "Next.js", "MongoDB"],
+    "image": "https://morethantech.it/images/publications/3632/f89bc89b-7906-416d-ba66-8fae580e7d67.jpeg",
+    "url": "https://example-eshop.com"
   },
   {
     "id": 2,
-    "title": "Sistema Domotico",
-    "description": "Un sistema intelligente per la gestione della casa.",
+    "title": "Casa Smart",
+    "description": "Controlla la tua casa ovunque ti trovi.",
     "category": "Hardware",
-    "technologies": ["Raspberry Pi", "Python", "IoT"],
-    "image": "/images/domotica.jpg",
-    "url": "https://demo-domotica.com"
+    "technologies": ["Arduino", "C++", "IoT"],
+    "image": "https://morethantech.it/images/publications/3629/4d1870fc-9b73-4def-938d-0ba5751e6a99.jpeg",
+    "url": "https://smart-home.com"
   },
   {
     "id": 3,
-    "title": "App di Chat",
-    "description": "Applicazione di messaggistica real-time.",
+    "title": "TaskManager AI",
+    "description": "Un'app per organizzare le tue attività con intelligenza artificiale.",
     "category": "PWA",
-    "technologies": ["React", "Firebase", "WebSocket"],
-    "image": "/images/chat-app.jpg",
-    "url": "https://demo-chatapp.com"
+    "technologies": ["Vue.js", "TensorFlow", "Firebase"],
+    "image": "https://morethantech.it/images/publications/3609/bdd86d07-8c6c-40f6-8e89-f0e5b6c6b7d3.jpeg",
+    "url": "https://taskmanager-ai.com"
+  },
+  {
+    "id": 4,
+    "title": "SocialConnect",
+    "description": "Un social network per connettere le persone in tempo reale.",
+    "category": "Social",
+    "technologies": ["Angular", "Node.js", "WebSocket"],
+    "image": "https://morethantech.it/images/publications/3614/03bd798a-ef04-4deb-ae2f-7cd94712b873.jpeg",
+    "url": "https://socialconnect.com"
+  },
+  {
+    "id": 5,
+    "title": "Crypto Tracker",
+    "description": "Monitora i tuoi investimenti in criptovalute.",
+    "category": "Finance",
+    "technologies": ["React", "Django", "PostgreSQL"],
+    "image": "https://morethantech.it/images/publications/2149/6076b186-530e-44be-8d36-1c1e61fdb566.jpeg",
+    "url": "https://crypto-tracker.com"
+  },
+  {
+    "id": 6,
+    "title": "EventHub",
+    "description": "Organizza e partecipa a eventi con facilità.",
+    "category": "Event Management",
+    "technologies": ["Svelte", "Express", "SQLite"],
+    "image": "https://morethantech.it/images/publications/3614/dd8710ac-999e-4def-ac7b-377eea10e58f.jpeg",
+    "url": "https://eventhub.com"
   }
 ]

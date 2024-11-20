@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import logoWhite from "../images/logo_white.png";
 
 const Navbar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -8,11 +9,11 @@ const Navbar = () => {
   };
 
   return (
-    <div className="fixed top-0 left-0 w-full z-50">
+    <div className="fixed top-0 left-0 w-full z-50 ">
       <nav className=" bg-background-primary text-white px-4 py-3 flex justify-between items-center max-w-[1200px] m-auto">
         {/* Logo */}
-        <div className="logo">
-          <h1 className="text-xl font-bold">Logo</h1>
+        <div className="">
+          <img src={logoWhite} alt="" className=" h-5" />
         </div>
 
         {/* Hamburger Menu (Visible on small screens) */}
